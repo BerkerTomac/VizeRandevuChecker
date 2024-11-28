@@ -6,4 +6,4 @@
 
 ## 3 - run visa_monitor.py
 
-## 4 - sadece ankarada bulduklarını mesaj atıyor değiştirmek istiyorsun source/mission country'i franse ve türkiye dışında değerlerle değiştirebilir. center_name'i de ne yaparsan ankara yerine o olur
+## 4 - sadece ankarada bulduklarını mesaj atıyor değiştirmek istiyorsan source/mission country'i franse ve türkiye dışında değerlerle değiştirebilir. center_name'i de ne yaparsan ankara yerine o olur
